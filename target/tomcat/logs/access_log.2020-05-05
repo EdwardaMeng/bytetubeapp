@@ -1,0 +1,13 @@
+0:0:0:0:0:0:0:1 - - [05/May/2020:12:32:08 -0400] "GET /bytetubeapp HTTP/1.1" 302 - http-bio-8080-exec-1 0
+0:0:0:0:0:0:0:1 - - [05/May/2020:12:32:09 -0400] "GET /bytetubeapp/ HTTP/1.1" 200 52 http-bio-8080-exec-3 415
+0:0:0:0:0:0:0:1 - - [05/May/2020:12:32:09 -0400] "GET /favicon.ico HTTP/1.1" 404 - http-bio-8080-exec-4 0
+0:0:0:0:0:0:0:1 - - [05/May/2020:12:33:29 -0400] "GET /bytetubeapp HTTP/1.1" 302 - http-nio-8080-exec-1 0
+0:0:0:0:0:0:0:1 - - [05/May/2020:12:33:29 -0400] "GET /bytetubeapp/ HTTP/1.1" 500 4285 http-nio-8080-exec-2 36
+0:0:0:0:0:0:0:1 - - [05/May/2020:12:34:58 -0400] "GET /bytetubeapp HTTP/1.1" 302 - http-nio-8080-exec-3 0
+0:0:0:0:0:0:0:1 - - [05/May/2020:12:34:58 -0400] "GET /bytetubeapp/ HTTP/1.1" 500 4285 http-nio-8080-exec-4 6
+0:0:0:0:0:0:0:1 - - [05/May/2020:12:38:35 -0400] "GET /bytetubeapp HTTP/1.1" 302 - http-nio-8080-exec-1 0
+0:0:0:0:0:0:0:1 - - [05/May/2020:12:38:35 -0400] "GET /bytetubeapp/ HTTP/1.1" 500 4285 http-nio-8080-exec-2 31
+0:0:0:0:0:0:0:1 - - [05/May/2020:12:48:51 -0400] "GET /bytetubeapp HTTP/1.1" 302 - http-bio-8080-exec-1 0
+0:0:0:0:0:0:0:1 - - [05/May/2020:12:48:51 -0400] "GET /bytetubeapp/ HTTP/1.1" 200 52 http-bio-8080-exec-3 28
+0:0:0:0:0:0:0:1 - - [05/May/2020:12:48:51 -0400] "GET /bytetubeapp HTTP/1.1" 302 - http-bio-8080-exec-4 0
+0:0:0:0:0:0:0:1 - - [05/May/2020:12:48:51 -0400] "GET /bytetubeapp/ HTTP/1.1" 200 52 http-bio-8080-exec-5 1

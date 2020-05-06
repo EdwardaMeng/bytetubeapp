@@ -1,0 +1,259 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="bytetubeapp:war" />
+    </artifacts-to-build>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="37e6f5b3-7f4b-4b0c-9db3-7690666fa4a3" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="LogFilters">
+    <option name="FILTER_ERRORS" value="false" />
+    <option name="FILTER_WARNINGS" value="false" />
+    <option name="FILTER_INFO" value="true" />
+    <option name="FILTER_DEBUG" value="true" />
+    <option name="CUSTOM_FILTER" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1bUl5Sv62FUJ241Xd6J18wTmo45" />
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/main/java/com/bytetube/web" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.bytetube.service.impl" />
+      <recent name="com.bytetube.dao" />
+      <recent name="com.bytetube.entity" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/main/java/com/bytetube/web" />
+      <recent name="$PROJECT_DIR$/src/test/java" />
+      <recent name="$PROJECT_DIR$/src/main/resources/spring" />
+      <recent name="$PROJECT_DIR$/src/main/resources" />
+      <recent name="$PROJECT_DIR$/src/main/webapp" />
+    </key>
+  </component>
+  <component name="RestServicesNavigator">
+    <treeState>
+      <expand>
+        <path>
+          <item name="Found 1 services " type="fcff1e1b:RestServiceStructure$RootNode" />
+        </path>
+        <path>
+          <item name="Found 1 services " type="fcff1e1b:RestServiceStructure$RootNode" />
+          <item name="bytetubeapp" type="c588b436:RestServiceStructure$ProjectNode" />
+        </path>
+      </expand>
+      <select />
+    </treeState>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Tomcat Server.tomcat8">
+    <configuration name="AreaDaoTest.testBQueryArea" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="bytetubeapp" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.bytetube.dao.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.bytetube.dao" />
+      <option name="MAIN_CLASS_NAME" value="com.bytetube.dao.AreaDaoTest" />
+      <option name="METHOD_NAME" value="testBQueryArea" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="AreaServiceTest.testGetAreaList" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="bytetubeapp" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.bytetube.service.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.bytetube.service" />
+      <option name="MAIN_CLASS_NAME" value="com.bytetube.service.AreaServiceTest" />
+      <option name="METHOD_NAME" value="testGetAreaList" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="AwardDaoTest and 11 more" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="bytetubeapp" />
+      <option name="TEST_OBJECT" value="pattern" />
+      <patterns>
+        <pattern testClass="com.bytetube.dao.AwardDaoTest" />
+        <pattern testClass="com.bytetube.dao.HeadLineDaoTest" />
+        <pattern testClass="com.bytetube.dao.PersonInfoDaoTest" />
+        <pattern testClass="com.bytetube.dao.ProductCategoryDaoTest" />
+        <pattern testClass="com.bytetube.dao.ProductDaoTest" />
+        <pattern testClass="com.bytetube.dao.ProductImgDaoTest" />
+        <pattern testClass="com.bytetube.dao.ShopAuthMapDaoTest" />
+        <pattern testClass="com.bytetube.dao.ShopCategoryDaoTest" />
+        <pattern testClass="com.bytetube.dao.ShopDaoTest" />
+        <pattern testClass="com.bytetube.dao.UserAwardMapDaoTest" />
+        <pattern testClass="com.bytetube.dao.UserProductMapDaoTest" />
+        <pattern testClass="com.bytetube.dao.WechatAuthDaoTest" />
+      </patterns>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="com.bytetube.service.impl in bytetubeapp" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="bytetubeapp" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.bytetube.service.impl.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.bytetube.service.impl" />
+      <option name="TEST_OBJECT" value="package" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="tomcat8" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" APPLICATION_SERVER_NAME="Tomcat 8.5.511" ALTERNATIVE_JRE_ENABLED="false">
+      <option name="UPDATING_POLICY" value="restart-server" />
+      <deployment>
+        <artifact name="bytetubeapp:war">
+          <settings>
+            <option name="CONTEXT_PATH" value="/bytetubeapp_war" />
+          </settings>
+        </artifact>
+      </deployment>
+      <server-settings>
+        <option name="BASE_DIRECTORY_NAME" value="Unnamed_bytetubeapp" />
+      </server-settings>
+      <predefined_log_file enabled="true" id="Tomcat" />
+      <predefined_log_file enabled="true" id="Tomcat Catalina" />
+      <predefined_log_file id="Tomcat Manager" />
+      <predefined_log_file id="Tomcat Host Manager" />
+      <predefined_log_file id="Tomcat Localhost Access" />
+      <RunnerSettings RunnerId="Debug">
+        <option name="DEBUG_PORT" value="56421" />
+      </RunnerSettings>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Cover">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Debug">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Run">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <method v="2">
+        <option name="Make" enabled="true" />
+        <option name="BuildArtifacts" enabled="true">
+          <artifact name="bytetubeapp:war" />
+        </option>
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="JUnit.AreaDaoTest.testBQueryArea" />
+      <item itemvalue="JUnit.AreaServiceTest.testGetAreaList" />
+      <item itemvalue="JUnit.AwardDaoTest and 11 more" />
+      <item itemvalue="JUnit.com.bytetube.service.impl in bytetubeapp" />
+      <item itemvalue="Tomcat Server.tomcat8" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.AreaServiceTest.testGetAreaList" />
+        <item itemvalue="JUnit.AreaDaoTest.testBQueryArea" />
+        <item itemvalue="JUnit.com.bytetube.service.impl in bytetubeapp" />
+        <item itemvalue="JUnit.AwardDaoTest and 11 more" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="37e6f5b3-7f4b-4b0c-9db3-7690666fa4a3" name="Default Changelist" comment="" />
+      <created>1588694369252</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1588694369252</updated>
+      <workItem from="1588694371923" duration="12623000" />
+      <workItem from="1588714925489" duration="2300000" />
+      <workItem from="1588717248700" duration="10492000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+</project>
