@@ -3,24 +3,24 @@ package com.bytetube.entity;
 import java.util.Date;
 
 public class ProductCategory {
-	private Long productCategoryId;
-	private Long shopId;
-	private String productCategoryName;
-	private Integer priority;
-	private Date createTime;
+		private Long productCategoryId;
+		private Long shopId;
+		private String productCategoryName;
+		private Integer priority;
+		private Date createTime;
 
 
-	public Long getProductCategoryId() {
-		return productCategoryId;
-	}
+		public Long getProductCategoryId() {
+			return productCategoryId;
+		}
 
-	public void setProductCategoryId(Long productCategoryId) {
-		this.productCategoryId = productCategoryId;
-	}
+		public void setProductCategoryId(Long productCategoryId) {
+			this.productCategoryId = productCategoryId;
+		}
 
-	public Long getShopId() {
-		return shopId;
-	}
+		public Long getShopId() {
+			return shopId;
+		}
 
 	public void setShopId(Long shopId) {
 		this.shopId = shopId;

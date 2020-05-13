@@ -30,34 +30,34 @@ public class AreaDaoTest extends BaseTest {
 		assertEquals(1, effectedNum);
 	}
 
-	@Test
-	public void testBQueryArea() throws Exception {
-		List<Area> areaList = areaDao.queryArea();
-		assertEquals(2, areaList.size());
-	}
-
-	@Test
-	public void testCUpdateArea() throws Exception {
-		Area area = new Area();
-		area.setAreaId(1L);
-		area.setAreaName("hec");
-		area.setLastEditTime(new Date());
-		int effectedNum = areaDao.updateArea(area);
-		assertEquals(1, effectedNum);
-	}
-
-	@Test
-	public void testDDeleteArea() throws Exception {
-		long areaId = -1;
-		List<Area> areaList = areaDao.queryArea();
-		for (Area myArea : areaList) {
-			if ("区域1".equals(myArea.getAreaName())) {
-				areaId = myArea.getAreaId();
-			}
-		}
-		List<Long> areaIdList = new ArrayList<Long>();
-		areaIdList.add(areaId);
-		int effectedNum = areaDao.batchDeleteArea(areaIdList);
-		assertEquals(1, effectedNum);
-	}
+//	@Test
+//	public void testBQueryArea() throws Exception {
+//		List<Area> areaList = areaDao.queryArea();
+//		assertEquals(2, areaList.size());
+//	}
+//
+//	@Test
+//	public void testCUpdateArea() throws Exception {
+//		Area area = new Area();
+//		area.setAreaId(1L);
+//		area.setAreaName("hec");
+//		area.setLastEditTime(new Date());
+//		int effectedNum = areaDao.updateArea(area);
+//		assertEquals(1, effectedNum);
+//	}
+//
+//	@Test
+//	public void testDDeleteArea() throws Exception {
+//		long areaId = -1;
+//		List<Area> areaList = areaDao.queryArea();
+//		for (Area myArea : areaList) {
+//			if ("区域1".equals(myArea.getAreaName())) {
+//				areaId = myArea.getAreaId();
+//			}
+//		}
+//		List<Long> areaIdList = new ArrayList<Long>();
+//		areaIdList.add(areaId);
+//		int effectedNum = areaDao.batchDeleteArea(areaIdList);
+//		assertEquals(1, effectedNum);
+//	}
 }

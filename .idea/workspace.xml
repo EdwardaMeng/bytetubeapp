@@ -6,7 +6,86 @@
     </artifacts-to-build>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="37e6f5b3-7f4b-4b0c-9db3-7690666fa4a3" name="Default Changelist" comment="" />
+    <list default="true" id="37e6f5b3-7f4b-4b0c-9db3-7690666fa4a3" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bytetubeapp.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/bytetube/entity/Area.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/bytetube/entity/Area.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/bytetube/entity/ProductCategory.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/bytetube/entity/ProductCategory.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/bytetube/servlet/ServletDemo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/bytetube/web/superadmin/AreaController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/bytetube/web/superadmin/AreaController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/hello.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/index.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resources/js/frontend/customerbind.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/resources/js/frontend/customerbind.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resources/js/frontend/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/resources/js/frontend/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resources/js/frontend/mypoint.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/resources/js/frontend/mypoint.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resources/js/frontend/myrecord.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/resources/js/frontend/myrecord.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resources/js/frontend/pointrecord.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/resources/js/frontend/pointrecord.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resources/js/frontend/productdetail.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/resources/js/frontend/productdetail.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resources/js/frontend/shopdetail.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/resources/js/frontend/shopdetail.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resources/js/frontend/shoplist.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/resources/js/frontend/shoplist.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resources/js/shop/awarddelivercheck.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resources/js/shop/awardedit.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resources/js/shop/awardmanage.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resources/js/shop/changepsw.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resources/js/shop/forgetpsw.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resources/js/shop/myshops.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resources/js/shop/ownerbind.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resources/js/shop/ownerlogin.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resources/js/shop/productbuycheck.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resources/js/shop/productcategorymanage.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resources/js/shop/productedit.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resources/js/shop/productmanage.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resources/js/shop/register.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resources/js/shop/shopauthedit.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resources/js/shop/shopauthmanage.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resources/js/shop/shopedit.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resources/js/shop/shoplist#U526f#U672c.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resources/js/shop/shoplist.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resources/js/shop/shopmanage.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resources/js/shop/usershopcheck.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/bytetube/dao/AreaDaoTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/bytetube/dao/AreaDaoTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/bytetubeapp-1.0-SNAPSHOT.war" beforeDir="false" afterPath="$PROJECT_DIR$/target/bytetubeapp-1.0-SNAPSHOT.war" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/bytetubeapp-1.0-SNAPSHOT/WEB-INF/classes/com/bytetube/entity/Area.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/bytetubeapp-1.0-SNAPSHOT/WEB-INF/classes/com/bytetube/entity/Area.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/bytetubeapp-1.0-SNAPSHOT/WEB-INF/classes/com/bytetube/servlet/ServletDemo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/bytetubeapp-1.0-SNAPSHOT/WEB-INF/classes/com/bytetube/web/superadmin/AreaController.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/bytetubeapp-1.0-SNAPSHOT/WEB-INF/classes/com/bytetube/web/superadmin/AreaController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/bytetubeapp-1.0-SNAPSHOT/hello.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/bytetubeapp-1.0-SNAPSHOT/index.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/bytetubeapp-1.0-SNAPSHOT/resources/js/frontend/customerbind.js" beforeDir="false" afterPath="$PROJECT_DIR$/target/bytetubeapp-1.0-SNAPSHOT/resources/js/frontend/customerbind.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/bytetubeapp-1.0-SNAPSHOT/resources/js/frontend/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/target/bytetubeapp-1.0-SNAPSHOT/resources/js/frontend/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/bytetubeapp-1.0-SNAPSHOT/resources/js/frontend/mypoint.js" beforeDir="false" afterPath="$PROJECT_DIR$/target/bytetubeapp-1.0-SNAPSHOT/resources/js/frontend/mypoint.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/bytetubeapp-1.0-SNAPSHOT/resources/js/frontend/myrecord.js" beforeDir="false" afterPath="$PROJECT_DIR$/target/bytetubeapp-1.0-SNAPSHOT/resources/js/frontend/myrecord.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/bytetubeapp-1.0-SNAPSHOT/resources/js/frontend/pointrecord.js" beforeDir="false" afterPath="$PROJECT_DIR$/target/bytetubeapp-1.0-SNAPSHOT/resources/js/frontend/pointrecord.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/bytetubeapp-1.0-SNAPSHOT/resources/js/frontend/productdetail.js" beforeDir="false" afterPath="$PROJECT_DIR$/target/bytetubeapp-1.0-SNAPSHOT/resources/js/frontend/productdetail.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/bytetubeapp-1.0-SNAPSHOT/resources/js/frontend/shopdetail.js" beforeDir="false" afterPath="$PROJECT_DIR$/target/bytetubeapp-1.0-SNAPSHOT/resources/js/frontend/shopdetail.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/bytetubeapp-1.0-SNAPSHOT/resources/js/frontend/shoplist.js" beforeDir="false" afterPath="$PROJECT_DIR$/target/bytetubeapp-1.0-SNAPSHOT/resources/js/frontend/shoplist.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/bytetubeapp-1.0-SNAPSHOT/resources/js/shop/awarddelivercheck.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/bytetubeapp-1.0-SNAPSHOT/resources/js/shop/awardedit.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/bytetubeapp-1.0-SNAPSHOT/resources/js/shop/awardmanage.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/bytetubeapp-1.0-SNAPSHOT/resources/js/shop/changepsw.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/bytetubeapp-1.0-SNAPSHOT/resources/js/shop/forgetpsw.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/bytetubeapp-1.0-SNAPSHOT/resources/js/shop/myshops.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/bytetubeapp-1.0-SNAPSHOT/resources/js/shop/ownerbind.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/bytetubeapp-1.0-SNAPSHOT/resources/js/shop/ownerlogin.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/bytetubeapp-1.0-SNAPSHOT/resources/js/shop/productbuycheck.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/bytetubeapp-1.0-SNAPSHOT/resources/js/shop/productcategorymanage.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/bytetubeapp-1.0-SNAPSHOT/resources/js/shop/productedit.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/bytetubeapp-1.0-SNAPSHOT/resources/js/shop/productmanage.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/bytetubeapp-1.0-SNAPSHOT/resources/js/shop/register.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/bytetubeapp-1.0-SNAPSHOT/resources/js/shop/shopauthedit.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/bytetubeapp-1.0-SNAPSHOT/resources/js/shop/shopauthmanage.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/bytetubeapp-1.0-SNAPSHOT/resources/js/shop/shopedit.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/bytetubeapp-1.0-SNAPSHOT/resources/js/shop/shoplist#U526f#U672c.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/bytetubeapp-1.0-SNAPSHOT/resources/js/shop/shoplist.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/bytetubeapp-1.0-SNAPSHOT/resources/js/shop/shopmanage.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/bytetubeapp-1.0-SNAPSHOT/resources/js/shop/usershopcheck.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/META-INF/bytetubeapp.kotlin_module" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/bytetube/entity/Area.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/bytetube/entity/Area.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/bytetube/servlet/ServletDemo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/bytetube/web/superadmin/AreaController.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/bytetube/web/superadmin/AreaController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/com/bytetube/dao/AreaDaoTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/com/bytetube/dao/AreaDaoTest.class" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -19,6 +98,9 @@
         <option value="Class" />
       </list>
     </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="LogFilters">
     <option name="FILTER_ERRORS" value="false" />
@@ -36,10 +118,11 @@
   </component>
   <component name="ProjectId" id="1bUl5Sv62FUJ241Xd6J18wTmo45" />
   <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/src/main/java/com/bytetube/web" />
-    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
   </component>
   <component name="RecentsManager">
     <key name="CopyClassDialog.RECENTS_KEY">
@@ -81,7 +164,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Tomcat Server.tomcat8">
+  <component name="RunManager" selected="JUnit.ShopServiceTest.testAddShop">
     <configuration name="AreaDaoTest.testBQueryArea" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="bytetubeapp" />
       <extension name="coverage">
@@ -131,6 +214,22 @@
         <pattern testClass="com.bytetube.dao.UserProductMapDaoTest" />
         <pattern testClass="com.bytetube.dao.WechatAuthDaoTest" />
       </patterns>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ShopServiceTest.testAddShop" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="bytetubeapp" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.bytetube.service.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.bytetube.service" />
+      <option name="MAIN_CLASS_NAME" value="com.bytetube.service.ShopServiceTest" />
+      <option name="METHOD_NAME" value="testAddShop" />
+      <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -227,9 +326,11 @@
       <item itemvalue="JUnit.AwardDaoTest and 11 more" />
       <item itemvalue="JUnit.com.bytetube.service.impl in bytetubeapp" />
       <item itemvalue="Tomcat Server.tomcat8" />
+      <item itemvalue="JUnit.ShopServiceTest.testAddShop" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.ShopServiceTest.testAddShop" />
         <item itemvalue="JUnit.AreaServiceTest.testGetAreaList" />
         <item itemvalue="JUnit.AreaDaoTest.testBQueryArea" />
         <item itemvalue="JUnit.com.bytetube.service.impl in bytetubeapp" />
@@ -250,10 +351,22 @@
       <workItem from="1588694371923" duration="12623000" />
       <workItem from="1588714925489" duration="2300000" />
       <workItem from="1588717248700" duration="10492000" />
+      <workItem from="1589399842789" duration="1123000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
 </project>

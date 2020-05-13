@@ -3,7 +3,7 @@ $(function() {
 	var maxItems = 20;
 	var pageSize = 10;
 
-	var listUrl = '/myo2o/frontend/listuserawardmapsbycustomer';
+	var listUrl = '/bytetube/frontend/listuserawardmapsbycustomer';
 
 	var pageNum = 1;
 	var productName = '';
